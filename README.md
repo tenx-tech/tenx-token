@@ -13,6 +13,10 @@ Learn more:
 - [Runbooks](https://github.com/tenx-tech/tenx-token/blob/master/docs/RUNBOOKS.MD)
 - [Contribution Guidelines](https://github.com/tenx-tech/tenx-token/blob/master/docs/CONTRIBUTING.md)
 
-## Security Issues
+# Security
+
+An security audit of the TENX Token smart contracts was completed by ChainSecurity. The audit report can be found [here](https://github.com/tenx-tech/tenx-token/blob/master/docs/audit.pdf).
+
+## Reporting Issues
 
 If you find a vulnerability that may affect live or testnet deployments please send your report privately [here]( https://support.tenx.tech/hc/en-us/requests/new). Please DO NOT file a public issue.
